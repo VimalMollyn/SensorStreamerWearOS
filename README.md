@@ -11,7 +11,7 @@ Sensor Streamer streams IMU (accelerometer, gyroscope, magnetometer, rotation ve
 ## How to use?
 Compile and install the app on your android watch. Enter your UDP server's IP Address. Data is streamed on `port 5005`. 
 
-<p align="center">
+<p float="center">
   <img src="./media/app_drawer.png" height="30%"/>
   <img src="./media/app_preview.png" height="30%"/>
 </p>
